@@ -3,19 +3,9 @@
   "name": "Buy A Tree For Me",
   "icons": [
     {
-      "src": "smalllogo.jpg",
+      "src": "logosmall.jpg",
       "sizes": "400x400",
       "type": "image/jpg"
-    },
-    {
-      "src": "smalllogo.jpg",
-      "type": "image/jpg",
-      "sizes": "400x400"
-    },
-    {
-      "src": "smalllogo.jpg",
-      "type": "image/jpg",
-      "sizes": "400x400"
     }
   ],
   "start_url": ".",
