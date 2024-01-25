@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.ee9d0367.css",
-    "main.js": "/web/static/js/main.27edf4a5.js",
+    "main.css": "/web/static/css/main.13b6145a.css",
+    "main.js": "/web/static/js/main.bfe6708b.js",
     "static/js/787.1644a91a.chunk.js": "/web/static/js/787.1644a91a.chunk.js",
     "static/media/forst.jpg": "/web/static/media/forst.406a1d73c28342110f0b.jpg",
     "static/media/logo.jpg": "/web/static/media/logo.ac02d6d10c9d72ac62b1.jpg",
     "index.html": "/web/index.html",
-    "main.ee9d0367.css.map": "/web/static/css/main.ee9d0367.css.map",
-    "main.27edf4a5.js.map": "/web/static/js/main.27edf4a5.js.map",
+    "main.13b6145a.css.map": "/web/static/css/main.13b6145a.css.map",
+    "main.bfe6708b.js.map": "/web/static/js/main.bfe6708b.js.map",
     "787.1644a91a.chunk.js.map": "/web/static/js/787.1644a91a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee9d0367.css",
-    "static/js/main.27edf4a5.js"
+    "static/css/main.13b6145a.css",
+    "static/js/main.bfe6708b.js"
   ]
 }
